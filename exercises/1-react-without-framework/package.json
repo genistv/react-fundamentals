@@ -1,0 +1,14 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "Setup for 1st exercise",
+  "main": "index.js",
+  "scripts": {
+    "dev": "srr"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve-reload-replace": "^4.0.3"
+  }
+}
